@@ -1,6 +1,6 @@
 {
   "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "description": "Hello 👋 Jay shree Ram 🚩 I am Mithalesh Yadav whatsapp bot user",
   "website": "https://web.giftedtechnexus.co.ke/sessions",
   "repository": "https://github.com/mouricedevs/gifted",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "MITHALESH YADAV"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "916207629435"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
